@@ -1,0 +1,15 @@
+33.257947     !  bmom  - lepton beam momentum (GeV)
+0.000000     !  tmom  - target momentum (0 = fixed target)
+1            !  lepton - 1=electron 2=muon
+1            !  ivec  - 1=rho 2=omega 3=phi 4=J/psi
+1000000.000000 1000000.000000 500000.000000   ! ann1 ann2 ann3
+2.000000        !  cutv  - vmax cut (0=no cut) [vmax = 2.0 GeV^2]
+3            !  nev   - MC iterations per point
+333522       !  seed
+2           !  npoi  - number of kinematic points
+-34.805854 -34.605854 
+-34.805854 -34.605854 
+-0.400000 -0.600000 
+-0.400000 -0.600000 
+0.109  0.1-09
+0.111  0.111

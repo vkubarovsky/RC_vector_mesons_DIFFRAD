@@ -1,0 +1,10 @@
+33.257947     !  bmom  - lepton beam momentum (GeV)
+0.000000      !  tmom  - target momentum (0 = fixed target)
+1             !  lepton - 1=electron 2=muon
+1             !  ivec  - 1=rho 2=omega 3=phi 4=J/psi
+1             !  intphi - 1=integrate over phi, 0=fixed phi
+2.000000      !  cutv  - vmax cut in GeV^2 (vmax=1.2 curve)
+2             !  npoi  - number of kinematic points
+-34.805854 -34.605854
+-0.400000 -0.600000
+-0.110000 -0.110000
