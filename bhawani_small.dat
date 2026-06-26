@@ -1,0 +1,15 @@
+10.600000     !  bmom  - lepton momentum
+0.000000     !  tmom  - proton momentum (0 = fixed target)
+1         !  lepton - 1=electron 2=muon
+3         !  ivec  - 1=rho 2=omega 3=phi 4=J/psi
+10000.000000 10000.000000 5000.000000   ! ann1 ann2 ann3 - event counts (SMALL TEST)
+0.020000        !  vcut  - v cut (0=none)
+2         !  nev   - MC samples per point
+333522    !  seed
+2         !  npoi  - number of kinematic points
+-6.250000 -6.250000
+-3.240000 -3.240000
+-1.110000 -1.110000
+-0.200000 -0.200000
+-0.410553 -0.502053
+-0.044553 -0.410553
